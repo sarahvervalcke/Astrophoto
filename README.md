@@ -1,0 +1,3 @@
+These are RGB photos of the Crab nebula taken during the European Research Course on Atmospheres at l'Observatoire de Haute Provence with a 120cm telescope.
+The pictures have been corrected for flat fields and bias.
+The three images were combined in GIMP (see xcf file), but a green gradient remains...
